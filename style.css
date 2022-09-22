@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;0,700;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Roboto, "sans-serif";
+  font-size: 16px;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #ff6263;
+  border-radius: 5px;
+  max-height: 400px;
+  max-width: 300px;
+  padding: 10px;
+  box-shadow: 5px 5px 10px #444444;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-size: 20px;
+  color: #1f1f1f;
+  margin-bottom: 10px;
+}
+#binary {
+  height: 15px;
+  border-radius: 5px;
+  margin-top: 2px;
+  height: 30px;
+  outline: none;
+}
+.row {
+  margin: 10px;
+  text-align: center;
+}
+.btn {
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+  background: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #fff;
+  color: #ff6263;
+  box-shadow: 5px 5px 10px #444444;
+  transition: all 0.3s ease-in-out;
+}
+.result {
+  color: white;
+}
+label {
+  color: white;
+}
