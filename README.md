@@ -8,7 +8,7 @@
 
 - It took me 2-3 hrs to make this project.
 
-  [![badge](https://img.shields.io/badge/LINK%20OF-PROJECT-purple)](https://js-05binarytodecimal-project.netlify.app/)
+  [![badge](https://img.shields.io/badge/LINK%20OF-PROJECT-pink)](https://js-05binarytodecimal-project.netlify.app/)
 
 ---
 
